@@ -19,6 +19,7 @@ A university-focused web application designed to replace PaperCut with a cost-ef
 - [Available Routes](#available-routes)
 - [Team Members](#team-members)
 - [Project Status](#project-status)
+- [Planned Phases](#planned-phases)
 - [Documentation References](#documentation-references)
 - [Important Notes](#important-notes)
 
@@ -245,10 +246,6 @@ The prototype includes comprehensive UI screens for:
 - **Node.js** 20+ runtime
 
 ### Backend (Planned)
-
-- RESTful API for frontend communication
-- Active Directory/SSO integration
-- Database layer for persistence
-- Embedded device communication
+### Deployment (Planned)
 
 ---
