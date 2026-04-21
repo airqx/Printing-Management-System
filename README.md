@@ -4,27 +4,6 @@ A university-focused web application designed to replace PaperCut with a cost-ef
 
 ---
 
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Project Motivation](#project-motivation)
-- [System Architecture](#system-architecture)
-- [System Users & Roles](#system-users--roles)
-- [Core Use Cases](#core-use-cases)
-- [Front-End Implementation](#front-end-implementation)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Setup & Installation](#setup--installation)
-- [Running Locally](#running-locally)
-- [Available Routes](#available-routes)
-- [Team Members](#team-members)
-- [Project Status](#project-status)
-- [Planned Phases](#planned-phases)
-- [Documentation References](#documentation-references)
-- [Important Notes](#important-notes)
-
----
-
 ## 📖 Project Overview
 
 The Print Management System is a multi-phase initiative designed to modernize university printing infrastructure. Currently spanning **Phase 1** through **Phase 3**, the project progresses from initial concept through system design to a functional front-end prototype.
